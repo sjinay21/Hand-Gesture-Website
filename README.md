@@ -1,1 +1,1 @@
-# Hand-Gesture-Website
+# Capstone-Project
